@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![Nicolas's github stats](https://github-readme-stats.vercel.app/api?username=nicolas-chaulet&show_icons=true&theme=merko)
+![Nicolas's github stats](https://github-readme-stats.vercel.app/api?username=nicolas-chaulet&show_icons=true)
 
 <!--
 **nicolas-chaulet/nicolas-chaulet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
